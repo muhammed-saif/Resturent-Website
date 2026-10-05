@@ -57,6 +57,7 @@ header {
     top: 0px;
     background: rgba(0, 0, 0, 0.373);
     backdrop-filter: blur(0.5px);
+    z-index: 999;
 }
 header .company_logo {
     /* width: 112px; */
